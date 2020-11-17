@@ -1,1 +1,2 @@
 This is file2
+Adding a line of info. by the branch b1
