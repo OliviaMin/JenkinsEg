@@ -1,0 +1,7 @@
+C:\Users\OLIVIA\source\repos\SecondApplication\SecondApplication\bin\Debug\SecondApplication.exe.config
+C:\Users\OLIVIA\source\repos\SecondApplication\SecondApplication\bin\Debug\SecondApplication.exe
+C:\Users\OLIVIA\source\repos\SecondApplication\SecondApplication\bin\Debug\SecondApplication.pdb
+C:\Users\OLIVIA\source\repos\SecondApplication\SecondApplication\obj\Debug\SecondApplication.csprojAssemblyReference.cache
+C:\Users\OLIVIA\source\repos\SecondApplication\SecondApplication\obj\Debug\SecondApplication.csproj.CoreCompileInputs.cache
+C:\Users\OLIVIA\source\repos\SecondApplication\SecondApplication\obj\Debug\SecondApplication.exe
+C:\Users\OLIVIA\source\repos\SecondApplication\SecondApplication\obj\Debug\SecondApplication.pdb
